@@ -14,10 +14,7 @@ and clearly communicate critical findings. "
 - mongoDB
 - Zipfian Academy
 
-
-## This Repository
-This is the repository for all Udacity DAN projects. Each folder corresponds
-to one of the 7 projects required to complete the program.
+## Projects
 
 ### [Test a Perceptual Phenomenon](https://github.com/jasonicarter/DAND_Stroop_Effect)
 
